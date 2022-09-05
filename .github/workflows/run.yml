@@ -3,7 +3,7 @@ name: 刷步数
 on: 
   push：
   schedule:
-    - cron: 10 10 * * *
+    - cron: 19 10 * * *
 
 jobs:
   build:
